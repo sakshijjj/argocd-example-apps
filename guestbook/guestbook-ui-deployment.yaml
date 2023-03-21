@@ -23,7 +23,7 @@ spec:
 
 
 
-apiVersion: v1
+apiVersion: v2
 kind: Pod
 metadata:
   labels:
